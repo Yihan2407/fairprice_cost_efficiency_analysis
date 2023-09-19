@@ -1,4 +1,4 @@
-# Fairprice Protein Sources: A Cost- and Calorie-Efficiency Analysis
+# Fairprice Protein Sources: A Cost- and Caloric-Efficiency Analysis
 
 The interactive Tableau Dashboard may be viewed [here](https://public.tableau.com/app/profile/lim.yi.han/viz/Cost-andCalorieEfficiencyofFairPriceProteinSources/Dashboard1)
 ![image](https://github.com/Yihan2407/fairprice_cost_efficiency_analysis/assets/121044754/b3e19fb1-8f70-4bed-a75d-fd6acba933f3)
